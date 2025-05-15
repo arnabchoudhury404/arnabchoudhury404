@@ -36,6 +36,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arnabchoudhury404&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabchoudhury404&layout=compact&theme=tokyonight" />
 </p>
+![Profile views](https://komarev.com/ghpvc/?username=arnabchoudhury404)
+
 
 <!--
 **arnabchoudhury404/arnabchoudhury404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
