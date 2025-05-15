@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arnabchoudhury404&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabchoudhury404&layout=compact&theme=tokyonight" />
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=arnabchoudhury404)
+
 
 
 <!--
