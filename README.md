@@ -20,12 +20,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://seeklogo.com/images/B/burp-suite-logo-B5E6C7D678-seeklogo.com.png" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Gnu-bash-logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nmap_Logo.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kali-linux.png" width="40" />
+  <img src="https://seeklogo.com/images/B/burp-suite-logo-B5E6C7D678-seeklogo.com.png" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Metasploit_logo.png/600px-Metasploit_logo.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Nessus_logo.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Hashcat_logo.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Johntheripper-logo.png" width="40" />
 </p>
 
 ---
